@@ -1,0 +1,52 @@
+sqlite--within single phone
+
+
+wamp server--- mysql database-- and php
+
+
+
+android sdk
+
+
+android plugin for eclipse==we can develop android apps in eclipse
+we need to give sdk path for eclipse
+
+8080
+
+default port for wamp is 8080
+skype-8080
+
+--java download 1.8
+1.download eclipse
+2. add android plugin for eclipse
+3. android sdk location
+
+hi welcome to subversion
+
+wamp server
+1. download
+2. install
+3. change port number if required
+
+
+http://your_ip_adress:port_num/phpmyadmin
+
+http://192.168.56.1:8081/phpmyadmin
+******************http://192.168.56.1:8081/liveon/
+username: root
+
+output of android application is .apk file
+
+example: liveon.apk
+
+
+airdroid
+
+
+1.turn on server
+2. connect
+
+
+
+
+
